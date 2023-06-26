@@ -8,6 +8,4 @@
 <br />
 <br />
 
-[![Spotify](https://spotify-readme-ten-olive.vercel.app/api/spotify)](https://open.spotify.com/user/q77u5oo7ronbw16r2ykq0vukx)
-
 <img src="https://i.ibb.co/XWhC0fL/coding-desk-flat-vector-ui-ux-design-illustration-motion-animation-gif2.gif" width="800" height="600">
