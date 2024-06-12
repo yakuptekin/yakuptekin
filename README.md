@@ -3,7 +3,7 @@
 ## Hi, I'm Yakup Tekin, a passionate self-taught web developer from Antalya. 👋
 
 - 🎯 I'm doing my dream projects
-- ⛳️ I’m currently learning Swift & Vue.js
+- ⛳️ I’m currently learning SwiftUI
 
 <br />
 <br />
