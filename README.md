@@ -9,3 +9,7 @@
 <br />
 
 <img src="https://i.ibb.co/XWhC0fL/coding-desk-flat-vector-ui-ux-design-illustration-motion-animation-gif2.gif" width="800" height="600">
+
+
+
+<img src="https://raw.githubusercontent.com/yakuptekin/yakuptekin/output/snake.svg" alt="Snake animation" />
